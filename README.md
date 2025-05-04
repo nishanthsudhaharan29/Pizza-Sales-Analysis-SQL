@@ -87,5 +87,4 @@ This analysis can be used by business stakeholders to:
 
 ---
 
-## Repository Structure
 
