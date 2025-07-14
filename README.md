@@ -72,9 +72,8 @@ This analysis can be used by business stakeholders to:
 
 ## Tools and Technologies
 
-- **Data Analysis**: Python (Pandas, NumPy)
-- **Data Visualization**: Power BI, Matplotlib (if applicable for visualizations)
-- **Dataset**: Pizza sales transaction dataset (structured for analysis)
+- **Data Analysis**: SQL
+- **Dataset**: Pizza sales transaction dataset from Kaggle
 
 ---
 
@@ -86,5 +85,3 @@ This analysis can be used by business stakeholders to:
 - Expansion to include regional analysis if the dataset includes geographic data for a more detailed breakdown of sales by location.
 
 ---
-
-
